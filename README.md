@@ -1,4 +1,4 @@
-## Montgomery High School Rocketry Team's Code Repo
+# Montgomery High School Rocketry Team's Code Repo
 
-# here we have many of our algorithms - opensourced or privated
+## here we have many of our algorithms - opensourced or privated
 
