@@ -1,7 +1,5 @@
 # This is Montgomery High School Rocketry Team's Github Organization 🚀
 
-## We will have private and public repos containing our code for flight computers and more! 🧑‍💻
-
 
 
 <!--
